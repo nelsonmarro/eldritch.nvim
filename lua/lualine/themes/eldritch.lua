@@ -6,7 +6,7 @@ local eldritch = {}
 eldritch.normal = {
   a = { bg = colors.cyan, fg = colors.black },
   b = { bg = colors.fg_gutter, fg = colors.cyan },
-  c = { bg = colors.bg_highlight, fg = colors.fg_sidebar },
+  c = { bg = colors.bg_highlight, fg = colors.fg_dark },
 }
 
 eldritch.insert = {
